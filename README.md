@@ -30,3 +30,11 @@ Deployed a lightweight agent with psutil for real-time abnormality detection.
 
 #### Step 5: Response & Recovery
 Integrated automated rollback and isolation with mechanisms to restore safe file states upon detection.
+## Contribution
+1. Introduced a behavior-based detection system to prevent autonomous, LLM-based ransomware.
+
+2. Developed a modular defense system incorporating data collection, machine learning, real-time monitoring, and recovery.
+
+3. Demonstrated high detection accuracy and low false-positive detection in simulated testbeds.
+
+4. Provided an open-source foundation for further research on AI-augmented cybersecurity defense systems.
