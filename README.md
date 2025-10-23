@@ -1,4 +1,3 @@
-
 # AI-Enhanced Defense for LLM-Orchestrated Ransomware
 
 Shield 3.0 is an artificial intelligence-powered cybersecurity defense mechanism that identifies and prevents LLM-orchestrated ransomware attacks. According to research "Ransomware 3.0: Self-Composing and LLM-Orchestrated" (Raz et al., 2025), the project aims to counter autonomous ransomware that has the ability to plan and execute attacks independently without any human involvement.
