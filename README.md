@@ -17,16 +17,16 @@ Shield 3.0 shows that temporal and behavior-based analysis can quite effectively
 ## Methodology
 
 #### Step 1: Data Generation
-Created synthetic datasets representing benign and ransomware-like system activities (CPU, I/O, and file access metrics).
+Synthetic dataset generation simulating benign and ransomware-like system activity (CPU, I/O, and file access patterns).
 
 #### Step 2: Feature Extraction
-Collected process-level and file-level behavioral features for temporal analysis.
+Removed process-level and file-level behavioral characteristics for temporal examination.
 
 #### Step 3: Model Training
-Trained a Random Forest classifier to distinguish between normal and ransomware behaviors.
+Trained Random Forest classifier to distinguish between normal and ransomware activity.
 
 #### Step 4: Real-Time Monitoring
-Developed a lightweight agent using psutil for live anomaly detection.
+Deployed a lightweight agent with psutil for real-time abnormality detection.
 
 #### Step 5: Response & Recovery
-Integrated automated rollback and isolation mechanisms to restore safe file states upon detection.
+Integrated automated rollback and isolation with mechanisms to restore safe file states upon detection.
